@@ -1,0 +1,23 @@
+.primeiro {
+    background-color: #0d5188;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.LinhaB {
+    color: black;
+    background-color: #66c5e3;
+}
+
+.letrasazuis {
+    color: #0d5188;
+    background-color: #c7e7f3;
+}
+
+.posicao {
+    background-color: grey;
+}
+
+.numeros {
+    background-color: #c7e7f3;
+}
