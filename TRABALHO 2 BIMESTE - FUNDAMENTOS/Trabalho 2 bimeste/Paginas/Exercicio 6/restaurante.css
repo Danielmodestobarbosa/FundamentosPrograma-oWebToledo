@@ -1,0 +1,11 @@
+.corporestaurante {
+    align-items: center;
+    background-position: left;
+    padding: 200px;
+}
+
+body {
+    background-image: url(restaurante.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

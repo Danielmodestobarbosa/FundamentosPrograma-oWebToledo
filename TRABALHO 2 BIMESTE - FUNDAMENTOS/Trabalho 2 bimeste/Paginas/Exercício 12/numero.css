@@ -1,0 +1,11 @@
+.corponumero {
+    align-items: center;
+    background-position: left;
+    padding: 200px;
+}
+
+body {
+    background-image: url(abaco.webp);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

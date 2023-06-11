@@ -1,0 +1,11 @@
+.corpoidade {
+    align-items: center;
+    background-position: left;
+    padding: 200px;
+}
+
+body {
+    background-image: url(idade.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}

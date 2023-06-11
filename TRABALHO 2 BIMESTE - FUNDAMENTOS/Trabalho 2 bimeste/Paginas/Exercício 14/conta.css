@@ -1,0 +1,14 @@
+.corpo {
+    align-items: center;
+    background-position: left;
+    padding: 250px;
+}
+.input{
+    width: 250px;
+}
+
+body {
+    background-image: url(moeda.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
