@@ -1,0 +1,21 @@
+.h1 {
+    font-size: Arial;
+    
+}
+
+.link {
+    color: aqua;
+}
+
+body {
+    background-color: rgb(37, 37, 37);
+    font-family:  FreeMono, monospace;
+    color: rgb(209, 219, 219);
+}
+
+.h1 {
+    background-color: rgb(24, 23, 23);
+    color: white;
+    font-family: rockwell ;
+}
+
